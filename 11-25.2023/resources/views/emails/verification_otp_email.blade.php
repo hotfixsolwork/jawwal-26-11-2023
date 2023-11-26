@@ -1,0 +1,1 @@
+<p>Your verification Email code is: {{ $otp }}</p>
